@@ -1,0 +1,230 @@
+{
+  "main": {
+    "name":"Arvind Jangir",
+    "description":"An astute result oriented professional with 8+ years experience in handling all aspects of Web Development and Software Architecture (Full stack developer). Deep working knowledge of and proven experience with Elasticsearch, Kibana and Logstash. Working knowledge of Kibana visualization strategies and techniques. Advanced knowledge of Elasticsearch sharing, partitioning, aliases, watchers, etc. Presently associated with Oceaneering Internationals as Application Developer (Elasticsearch + NodeJS)",
+    "image":"profilepic.png",
+    "bio":"Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "arvindjangir007@gmail.com",
+    "phone": "E M A I L M E",
+    "github":"https://github.com/arvind-007",
+    "project":"https://github.com/arvind-007",
+    "address":{
+      "city":"Jaipur",
+      "state":"Rajasthan",
+      "zip": "302021"
+    },
+    "website": "http://www.arvindjangir.com",
+    "resumedownload":"https://docs.google.com/document/d/1naftK3cJwTKJ_bCHbXFIA9RMS4LZQAzNyeQ7CVc_gLQ/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.linkedin.com/in/arvindjangir007/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://www.linkedin.com/in/arvindjangir007/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arvindjangir007/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.linkedin.com/in/arvindjangir007/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/arvind-007",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Mahatma Gandhi University",
+        "degree":"Masters of Science in Information Technology",
+        "graduated":"June 2014",
+        "description":"The course of study is concentrated around the Information Systems discipline. The core courses are (typically) Systems analysis, Systems design, Data Communications, Database design, Project management and Security."
+      },
+      {
+        "school":"University of Rajasthan",
+        "degree":"Bachler in Computer Application",
+        "graduated":"June 2009",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Oceaneering International",
+        "title":"Application Developer",
+        "years":"August 2020 - Present",
+        "description":"Taking care of the Elasticsearch (Specially the search part).Identified, reported, and fixed critical errors in microservices interacts with Elasticsearch for search and update data. Doing rapid enhancement in the existing search queries and in architecture to improve the performance and improve the accuracy of the results. Handling large amounts of data. Working with top microservice architecture in nodeJS."
+      },
+      {
+        "company":"Sooryen Innovation Labs (Encora)",
+        "title":"Sr. Software Engineer",
+        "years":"March 2017 - May 2020",
+        "description":"Supervised the team's weekly progress to ensure projects were on schedule and within budget Presented weekly progress updates to upper management. Facilitated quick resolution of conflicts between team members or with clients (Care52). Worked closely with the management team throughout project life cycles to follow plans from start to finish. Worked as a full stack developer with PHP, MySQL, JavaScript and Elasticsearch. Worked collaboratively in a team environment."
+      },
+      {
+        "company":"CaseAtlas INC, New York (On contract)",
+        "title":"Sr. Software Engineer",
+        "years":"July 2016 - March 2017",
+        "description":"Designed and built web-based applications using JavaScript, Python, and PHP. Collaborated with the team in an Agile software development environment to guide project design Performed error hunting and then utilized problem solving skills to fix bugs Assisted in solution prototyping and process wireframing to provide solutions that matched clients' business needs Developed, maintained, and executed test scripts using Javascript and PHP programming languages. Started to learn the NoSQL (Elasticsearch) databases."
+      },
+      {
+        "company":"Ewiz Technologies",
+        "title":"Software Engineer",
+        "years":"Jun 2013 - July 2016",
+        "description":"Responsible for creating and maintaining hybrid mobile applications using phonegap (Cordova) and Intel's appframework. Designed and built Care52 (Healthcare application) a web based application using JavaScript, JQuery, PHP (CodeIgniter), MySQL. Performed error hunting and then utilized problem solving skills to fix bugs"
+      },
+      {
+        "company":"B24eSolutions Pvt Ltd",
+        "title":"Software Engineer",
+        "years":"Jun 2013 - July 2016",
+        "description":"Designed and built web-based applications using JavaScript, HTML, and PHP. Created various web applications based on the MVC framework of CodeIgniter, CakePHP and on Wordpress and Buddypress CMS. Performed error hunting and then utilized problem solving skills to fix bugs"
+      }
+    ],
+    "skills":[
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Elasticsearch",
+        "level":"80%"
+      },
+      {
+        "name":"Kibana",
+        "level":"50%"
+      },
+      {
+        "name":"Logstash",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Docker",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Care52",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Kwikconsult",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Schedulink",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"1trial",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
